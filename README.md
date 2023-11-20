@@ -1,4 +1,5 @@
 # beltamozh-test
+# Node version - 14.19.0
 
 ## Project setup
 ```
